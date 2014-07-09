@@ -2,6 +2,7 @@
 from random import shuffle
 from os import system
 
+"Coming back soon"
 
 def all_cards():
     """
